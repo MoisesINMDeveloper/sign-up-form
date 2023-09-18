@@ -10,7 +10,7 @@ export default function Success() {
                         <h1 className="text-4xl font-bold font-roboto text-[#242742] mb-4 ml-1">Thanks for subscribing!</h1>
                         <p className="font-roboto mx-1 mb-6">A confirmation email has been sent to <b className="font-bold">ash@loremcompany.com</b>. Please open it and click the button inside to confirm your subscription.</p>
                     </div>
-                    <button className="mb-8 mx-3 w-[82vw] md:w-[34vw] md:mx-0 md:mb-16 focus:from-[#242742] focus:to-[#242742] bg-gradient-to-r from-[#fd155bce] to-[#FF6155] focus:shadow-none shadow-[5px_15px_20px_-10px_#ff6257c9] h-[3.3rem] rounded-md "><p className="text-white font-roboto font-extrabold">Dismiss message</p></button>
+                    <button className="mb-8 mx-3 w-[82vw] md:w-[22rem] md:mx-0 md:mb-16 focus:from-[#242742] focus:to-[#242742] bg-gradient-to-r from-[#fd155bce] to-[#FF6155] focus:shadow-none shadow-[5px_15px_20px_-10px_#ff6257c9] h-[3.3rem] rounded-md "><p className="text-white font-roboto font-extrabold">Dismiss message</p></button>
                 </div>
             </div>
         </article>
